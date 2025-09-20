@@ -20,7 +20,7 @@ Script de bash que permite capturar una región de la pantalla y extraer texto u
 
 - **Notificaciones** de estado
 
-## 🚀 Instalación Rápida
+## Instalación Rápida
 ### Opción 1: Instalación Automática
 ```bash
 
@@ -52,7 +52,7 @@ chmod  +x  ocr.sh
 sudo  mv  ocr.sh  /usr/local/bin/ocr-screenshot
 
 ```
-## 📖 Uso
+## Uso
 
 ### KDE Plasma
 - **Shortcut**
