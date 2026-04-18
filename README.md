@@ -69,6 +69,20 @@ sudo  mv  ocr.sh  /usr/local/bin/ocr-screenshot
 
 ![](ocr3.png)
 
+### Hyprland
+
+1. Cambiar Flameshot por Slurp
+
+```bash
+grim -g "$(slurp)" /tmp/ocr-temp.png
+```
+
+2. Agregar el script como keybind
+
+```bash
+bind = $mainMod SHIFT, C, exec, ~/ocr-screenshot/>
+```
+
 ### ¿Qué hace el script?
 
 1. Abre Flameshot para seleccionar una región de la pantalla
