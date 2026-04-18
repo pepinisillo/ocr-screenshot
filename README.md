@@ -24,7 +24,7 @@ Script de bash que permite capturar una región de la pantalla y extraer texto u
 ### Opción 1: Instalación Automática
 ```bash
 
-git  clone  https://github.com/tu-usuario/ocr-screenshot.git
+git  clone  https://github.com/pepinisillo/ocr-screenshot.git
 
 cd  ocr-screenshot
 
